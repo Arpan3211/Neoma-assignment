@@ -63,9 +63,6 @@ End point for search the products by name
 
 To run this project, you will need to add the following environment variables to your .env file
 
-`API_KEY`
-
-`ANOTHER_API_KEY`
 
 `MONGODB_URI`="mongodb+srv://Arpan:<password>@cluster0.91mtru0.mongodb.net/database"
 
