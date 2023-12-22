@@ -6,6 +6,11 @@ The project is a backend project which is build in Node.js, Express and mongoDB 
 
 ## API Reference
 
+PROJECT IS HOSTED ON ONRENDER
+
+```base
+https://e-commerce-neoma.onrender.com/
+```
 
 #### Get all products
 Retrieve all available products.
