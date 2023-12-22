@@ -68,6 +68,9 @@ To run this project, you will need to add the following environment variables to
 `ANOTHER_API_KEY`
 
 `MONGODB_URI`="mongodb+srv://Arpan:<password>@cluster0.91mtru0.mongodb.net/database"
+
 `CLOUDINARY_CLOUD_NAME`="----------"
+
 `CLOUDINARY_API_KEY`="1234567890"
+
 `CLOUDINARY_API_SECRET`="cloudinary secret key"
