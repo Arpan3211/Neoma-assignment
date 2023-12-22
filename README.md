@@ -64,7 +64,7 @@ End point for search the products by name
 To run this project, you will need to add the following environment variables to your .env file
 
 
-`MONGODB_URI`="mongodb+srv://Arpan:<password>@cluster0.91mtru0.mongodb.net/database"
+`MONGODB_URI`="mongodb+srv://Arpan:-password-@cluster0.91mtru0.mongodb.net/database"
 
 `CLOUDINARY_CLOUD_NAME`="----------"
 
